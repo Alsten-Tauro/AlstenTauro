@@ -12,3 +12,12 @@ results. The TAs have released the marks of students in the form of an array, wh
 represents the marks of the ith student.
 Since you are a curious kid, you want to find all the marks that are not smaller than those
 on its right side in the array.
+
+
+3. Frustrated coders
+There are N frustrated coders standing in a circle with a gun in their hands. Each coder
+has a skill value S[ i ] and he can only kill those coders that have strictly less skill than
+him. One more thing, all the guns have only 1 bullet. This roulette can take place in
+any random order. Fortunately, you have the time stone (haaan wo harre wala) and
+you can see all possible outcomes of this scenario. Find the outcome where the total
+sum of the remaining coder's skill is minimum. Print this sum.
